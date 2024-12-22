@@ -9885,7 +9885,7 @@ return B.u($async$wZ,v)},
 aF(){var w,v,u,t,s,r=this,q=null
 r.aT()
 r.d=A.b1F()
-if(r.a.c.f){w=window.navigator.userAgent.toLowerCase()
+if(!r.a.c.f){w=window.navigator.userAgent.toLowerCase()
 if(C.c.p(w,"iphone")||C.c.p(w,"ipad"))r.Cv()
 else r.wZ()}v=r.Mc()
 r.at=v
@@ -33217,4 +33217,4 @@ for(u=0;u<256;++u)t[u]=C.c.cE(C.e.e6(u,16),2,"0")
 return t})
 w($,"bfA","aZ7",()=>B.aMV())})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"+/YVcs2YPpfMNMxtBY0JPjuAWbk=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"2Yb02ExCNQM8aeerryDt4j1kpkc=");
