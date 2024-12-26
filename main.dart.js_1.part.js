@@ -10237,7 +10237,7 @@ j=B.b2(a4,a7,a4)
 i=B.aF("Hormat kami yang berbahagia,",a4,a4,a4,B.aP().$4$color$fontSize$fontWeight$height(C.o,p,C.w,1),C.Y,a4)
 h=B.aF("Adib  & Lala",a4,a4,a4,A.aYB().$3$color$fontSize$fontWeight(C.o,a6/10,C.l),C.Y,a4)
 g=B.aF("Hormat kami yang mengundang,",a4,a4,a4,B.aP().$3$color$fontSize$fontWeight(C.o,p,C.w),C.Y,a4)
-p=a3.a.c===2?B.aF("Yeri Afrizon & Lili Afriani\nAndi Arbil Isnaeni Ma'moen (Alm.) & Vita Yuniaty\nKeluarga Lainah Mardasih (Almh.)\nAndi Toni Deas Fadilah (Alm.) & Ina Sakinah Rustam\nM. Ashari Azis Hamrat & Andi Fifi Elvira\nAndi Irlan Mattonrokang & Andi Desiana Dilatanti\nAndi Indah Sinta Puri",a4,a4,a4,B.aP().$4$color$fontSize$fontWeight$height(C.o,a6/45,C.l,1.2),C.Y,a4):B.aF("Keluarga Yeri Afrizon\nKeluarga Andi Arbil Isnaeni Ma\u2019moen (Alm.)",a4,a4,a4,B.aP().$3$color$fontSize$fontWeight(C.o,p,C.l),C.Y,a4)
+p=a3.a.c===2?B.aF("Yeri Afrizon & Lili Afriani\nAndi Arbil Isnaeni Ma'moen (Alm.) & Vita Yuniaty\nKeluarga Lainah Mardasih (Almh.)\nAndi Toni Deas Fadilah (Alm.) & Ina Sakinah Rustam\nM. Ashari Azis Hamrat & Andi Fifi Elvira\nAndi Irlan Mattonrokang & Andi Desiana Dilatanti\nAndi Indah Sinta Puri",a4,a4,a4,B.aP().$4$color$fontSize$fontWeight$height(C.o,v,C.l,1.3),C.Y,a4):B.aF("Keluarga Yeri Afrizon\nKeluarga Andi Arbil Isnaeni Ma\u2019moen (Alm.)",a4,a4,a4,B.aP().$3$color$fontSize$fontWeight(C.o,p,C.l),C.Y,a4)
 f=B.eh(a4,a4,C.H,C.H,C.o,a4,0,a4,a4,C.o,a4,a4,new B.ao(v,0,v,0),a4,a4,a4,C.ab,a4,a4)
 e=a3.d?new A.az9(a8):a4
 f=B.dS(B.e6(B.aF("Kembali",a4,a4,a4,B.aP().$1$fontSize(a7),a4,a4),e,f),7)
@@ -34074,4 +34074,4 @@ for(u=0;u<256;++u)t[u]=C.c.cE(C.e.e6(u,16),2,"0")
 return t})
 w($,"bfy","aZ5",()=>B.aMU())})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"Hafr96B4dznw65lq+5xRQdkPg14=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"yPdqyBEFBXzA+A5Lx23Zs/kXWL4=");
