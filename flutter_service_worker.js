@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "0043e401eedc9fc8c33292593259f91a",
 "assets/AssetManifest.bin.json": "330bed67189ee38655407933025ded15",
 "assets/AssetManifest.json": "3fa58237761052e11a4633c5f842dc66",
-"assets/assets/animation.riv": "0857320e1c7eee680115c004674b9075",
+"assets/assets/animation.riv": "72623ab1cfabd6bf71fd30d3d6842bec",
 "assets/assets/bca.png": "4115e47c65e00fc7213b951f736ea616",
 "assets/assets/gif/Loading.gif": "66105b14007a82abe1b5863b9ad1b614",
 "assets/assets/mandiri.png": "e87981bbc0046c26ffe45b9778a1e317",
@@ -40,10 +40,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "0043e401eedc9fc8c33292593259f91a
 "icons/Icon-512.png": "117df1f2eb7c4160457d4829cdc52b2a",
 "icons/Icon-maskable-192.png": "23e429126ffab9c09528e6e3b4006119",
 "icons/Icon-maskable-512.png": "117df1f2eb7c4160457d4829cdc52b2a",
-"index.html": "51ac4b59784005e48583b3d002fdbb12",
-"/": "51ac4b59784005e48583b3d002fdbb12",
-"main.dart.js": "e50f8f05d34dd19f7a26792eaa61cdb5",
-"main.dart.js_1.part.js": "5d57e4887ba73e67db554d1f01687050",
+"index.html": "e55fab01e0be313c5ead36a73210e1b0",
+"/": "e55fab01e0be313c5ead36a73210e1b0",
+"main.dart.js": "1e76cf33e228e2bbd47ed5037cfa044a",
+"main.dart.js_1.part.js": "15761a9105fa62c4e31295f2b9d80c69",
 "manifest.json": "cafefc3cad99370090d2451cdf9833d2",
 "version.json": "14d399c857ba75c1bd66a294f0bb8da0"};
 // The application shell files that are downloaded before a service worker can
